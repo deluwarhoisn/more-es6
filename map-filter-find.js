@@ -4,5 +4,5 @@ const students = [
     {id:3,name:'kabul', marks:95 },
     {id:4,name:'dabul', marks:15 },
 ]
-const names = students.map(student => student.name)
+const names = students.map(student => student.id)
 console.log(names)
