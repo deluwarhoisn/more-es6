@@ -5,4 +5,7 @@ const numbers = [4,5,6,7,12,45]
 //     sum = sum + num
 // }
 const total = numbers.reduce((acc, curr) => acc + curr)
-console.log(total)
+console.log(total) 
+
+
+
