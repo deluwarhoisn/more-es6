@@ -17,3 +17,6 @@ for(const key in student){
 
 const propName = 'marks'
 console.log(student[propName])
+
+
+const arr =[10,]
